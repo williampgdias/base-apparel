@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap");
+
+.App {
+  display: flex;
+  width: 1000px;
+  height: 600px;
+  background-color: #fff;
+}
+
+.content {
+  background-image: url(./bg-pattern-desktop.svg);
+  background-size: cover;
+  padding: 30px 150px 30px 80px;
+}
